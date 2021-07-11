@@ -1,5 +1,8 @@
 # NumpyExploration
-
+## Read Order
+    **Test Notebook
+    **FetchOperations
+    
 On the road to taking the dive from calculus to learning statistics and data science.
 
 1 --installed Anaconda https://www.anaconda.com/products/individual
@@ -23,6 +26,6 @@ On the road to taking the dive from calculus to learning statistics and data sci
 
 ![VS Code extension Jupyter](./assets/JupyterExtension.png)
 
-**Jupyter notebooks have file extension .jpynb and they function kinda cool in my opinion. They have individual cells of code chunked and spaced out kind of like a day planner. You can run individual cells of code or run from partway down a code list. Probably more I'm unaware of but I'm excited about it**
+**Jupyter notebooks have file extension .ipynb and they function kinda cool in my opinion. They have individual cells of code chunked and spaced out kind of like a day planner. You can run individual cells of code or run from partway down a code list. Probably more I'm unaware of but I'm excited about it**
 
 
