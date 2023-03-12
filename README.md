@@ -2,6 +2,8 @@
 ## Read Order
     **Test Notebook
     **FetchOperations
+    **ArrayModificationOperations
+    **NumpyMatricies
     
 On the road to taking the dive from calculus to learning statistics and data science.
 
